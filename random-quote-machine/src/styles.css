@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#quote-box {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  gap: 15px;
+  justify-content: center;
+}
